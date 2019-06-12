@@ -14,23 +14,23 @@ Monitor Agent for OPS team.
    
 2. Easy Start
  
-   a) git clone it.
+   1) git clone it.
    
-   b) config go-path include this project.
+   2) config go-path include this project.
    
-   c) Terminal environment, cd project directory, go build .
+   3) Terminal environment, cd project directory, go build .
    
-   d) Get target file agent or agent.exe and conf.
+   4) Get target file agent or agent.exe and conf.
    
-   e) Run it: ./agent or agent.exe 
+   5) Run it: ./agent or agent.exe 
    
    
 3. Project Note:
-    1) Just support configuration by config file now(using conf/app.conf).
+   1) Just support configuration by config file now(using conf/app.conf).
     
-    2) If you want decrypt an encrypted shell. You need use the same encrypt salt key to encrypt it firstly.
+   2) If you want decrypt an encrypted shell. You need use the same encrypt salt key to encrypt it firstly.
     
-    3) config file location: src/conf/app.conf, which is well described with related comment.
+   3) config file location: src/conf/app.conf, which is well described with related comment.
     
     
     
