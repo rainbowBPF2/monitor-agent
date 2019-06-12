@@ -1,0 +1,10 @@
+*.[oa]
+*~
+*.exe
+.idea
+bin/
+pkg/
+**/_.githooks/
+**/_.git/
+tests
+*.a
